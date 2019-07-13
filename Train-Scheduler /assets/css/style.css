@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+}
+.card{
+    opacity: 0.85;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background: lightblue;
+    opacity: .80;
+    font-family: fantasy;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: bolder;
+    color: red;
+}
+ 
+h6{
+    color:red;
+}
+
+
+.card-header{
+    font-family: fantasy;
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.table{
+    font-family: fantasy;
+    color: red;
+}
+.card-body{
+    font-family: fantasy;
+    color:red;
+}
